@@ -153,7 +153,6 @@ public class ArticleDetailFragment extends Fragment implements
                         .getIntent(), getString(R.string.action_share)));
             }
         });
-        bindViews();
         unbinder = ButterKnife.bind(this, mRootView);
         return mRootView;
     }
