@@ -17,7 +17,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="top"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
-            />
 
         </android.support.v7.widget.Toolbar>
     </FrameLayout>
