@@ -54,8 +54,6 @@ public class ArticleDetailFragment extends Fragment implements
 
     @BindView(R.id.photo)
     ImageView photo;
-    @BindView(R.id.main_toolbar)
-    Toolbar mainToolbar;
     @BindView(R.id.main_collapsing)
     CollapsingToolbarLayout mainCollapsing;
     @BindView(R.id.main_appbar)
